@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning AI DVELOPMENT
+- 🌱 I’m currently learning AI & ML , POWER BI 
 - 👯 All of my projects are available at **https://www.linkedin.com/in/eshaan-sabharwal-b73a201b2/**
 - 📫 How to reach me: **eshaansabharwal@gmail.com**
 - 😄 Pronouns: HE/HIM
